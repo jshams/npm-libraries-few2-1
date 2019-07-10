@@ -3,8 +3,8 @@
 ## Description
 
 This library includes basic string manupulation methods that you can call on string objects. Some including capitalizing words or switching cases of short (or long) phrases.
-[Github](https://github.com/jshams/npm-libraries-few2-1)
-[NPM](https://www.npmjs.com/package/strings-library)
+- [Github](https://github.com/jshams/npm-libraries-few2-1/tree/master/strings-library)
+- [NPM](https://www.npmjs.com/package/strings-library)
 
 ## Installation
 
