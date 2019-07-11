@@ -40,7 +40,7 @@ require('strings-library')
 
 ## Code Samples
 
-```
+```javascript
 const str = 'i like yellow water baloons'
 str.firstCharToUpper()          // 'I like yellow water baloons'
 str.allCaps()                   // 'I LIKE YELLOW WATER BALOONS'
