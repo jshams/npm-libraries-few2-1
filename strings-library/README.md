@@ -14,8 +14,8 @@ Start by running this command in your project's directory
 
 ## Methods
 
-| Method                 |                  Description                        | Example input            | Example output           | 
-|:-----------------------|----------------------------------------------------:|:------------------------:|:------------------------:|
+| Method                 |                  Description                        | Example input                  | Example output                 | 
+|:-----------------------|----------------------------------------------------:|:------------------------------:|:------------------------------:|
 | .firstCharToUpper()    | returns the string with the first char capitalized  | 'hello world'            | 'Hello world'            |
 | .allCaps()             | returns the string completely capitalized           | 'hello world'            | 'HELLO WORLD'            |
 | .allfirstCharsToUpper()| returns the string with the first letter of every word capitalized | 'hello world'|     'Hello World'     |
