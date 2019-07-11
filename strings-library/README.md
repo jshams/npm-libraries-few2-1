@@ -1,4 +1,6 @@
 # Strings Library
+![npm](https://img.shields.io/npm/v/strings-library.svg?style=plastic)
+![npm bundle size](https://img.shields.io/bundlephobia/min/strings-library.svg?style=plastic)
 
 ## Description
 
