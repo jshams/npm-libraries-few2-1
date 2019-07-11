@@ -9,7 +9,14 @@ This library includes basic string manupulation methods that you can call on str
 ## Installation
 
 Start by running this command in your project's directory
-`npm install strings-library`
+```
+npm install strings-library --save
+```
+And then requring it on the top of your index.js file 
+```
+require('strings-library')
+```
+
 
 
 ## Methods
