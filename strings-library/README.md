@@ -46,7 +46,7 @@ str.firstCharToUpper()          // 'I like yellow water baloons'
 str.allCaps()                   // 'I LIKE YELLOW WATER BALOONS'
 str.upperEveryOtherLetter()     // 'I lIkE yElLoW wAtEr BaLoOnS'
 str.removeWhiteSpace()          // 'i like yellow water baloons'
-str.kabobCase()                 // i-like-yellow-water-baloons
-str.snakeCase()                 // i_like_yellow_water_baloons
-str.camelCase()                 // iLikeYellowWaterBaloons
+str.kabobCase()                 // 'i-like-yellow-water-baloons'
+str.snakeCase()                 // 'i_like_yellow_water_baloons'
+str.camelCase()                 // 'iLikeYellowWaterBaloons'
 ```
